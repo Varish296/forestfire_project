@@ -1,0 +1,1 @@
+This is an end to end Machine Learning project that uses Regression Algorithm to predict FWI (Forest Weather Index) based on few parameters.
